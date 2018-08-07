@@ -1,0 +1,6 @@
+sort area dec
+sort pilot dec
+sort pilot asc
+Captain Phasma
+Commander Cody
+sort area asc
