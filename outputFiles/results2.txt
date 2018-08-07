@@ -1,0 +1,6 @@
+sort area dec		Head: 778.06, Tail: 6.42
+sort pilot dec		Head: Palpatine, Tail: Baron Papanoida
+sort pilot asc		Head: Baron Papanoida, Tail: Palpatine
+Captain Phasma 		found
+Commander Cody 		not found
+sort area asc		Head: 6.42, Tail: 778.06
