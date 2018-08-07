@@ -1,0 +1,8 @@
+sort area asc
+1731.9549560546875
+133.6999969482421875
+139.32
+sort pilot asc
+Boshek
+Greedo
+Malakili
